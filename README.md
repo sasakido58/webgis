@@ -1,2 +1,4 @@
 # webgis
-Download file test_gis.7z and run main.py
+Download file test_gis.7z 
+Run geoserver (localhost:8080/geogeoser)
+Run 'run.bat'
